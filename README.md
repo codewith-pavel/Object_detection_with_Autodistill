@@ -1,7 +1,5 @@
 # Real-Time Fire Detection with Drones and Edge Computing
 
-![Drone Fire Detection](https://via.placeholder.com/800x400.png?text=Drone+Fire+Detection)
-
 This repository contains the implementation of a real-time fire detection system integrating lightweight deep learning models, drones, and edge computing. The system leverages YOLOv8, DETR, and knowledge distillation techniques for efficient fire detection in resource-constrained environments.
 
 ## 📖 Abstract
